@@ -1,0 +1,194 @@
+spawnSwipeTutorialCompleted: false
+donated: false
+last-level: w-8
+professionAbilitiesTutorialCompleted: true
+achievements:
+  multi-kill: true
+  a-cat: true
+  obtain-archer: true
+  first-potion: true
+  open-pvp-100:
+  - null
+  - 0
+  first-ingredient: true
+  open-pvp-10:
+  - null
+  - 0
+  open-pvp-50:
+  - null
+  - 0
+  all-wasteland-levels: true
+  obtain-cleric: true
+  all-potions: true
+  open-pvp-25:
+  - null
+  - 0
+potionsAvailable: true
+dice:
+- name: Liri
+  profession: cleric
+  exp: 120
+  renames: 3
+  abilities:
+  - antidote
+  - default-defence
+  - antidote
+  - default-attack
+  - cleric-defence
+  - null
+- name: Oonf
+  profession: archer
+  exp: 138
+  renames: 3
+  abilities:
+  - speed
+  - heavy-shot
+  - speed
+  - speed
+  - heavy-shot
+  - speed
+  inventory:
+    speed: 1
+- name: Enf
+  profession: archer
+  exp: 136
+  renames: 3
+  abilities:
+  - speed
+  - speed
+  - speed
+  - speed
+  - heavy-shot
+  - heavy-shot
+  inventory:
+    heavy-defensive-attack: 5
+    defensive-attack: 1
+    default-attack: 1
+    default-defence: 1
+    shot: 4
+- name: Snow
+  profession: warrior
+  exp: 90
+  renames: 3
+  abilities:
+  - heavy-speed-attack
+  - heavy-speed-attack
+  - heavy-speed-attack
+  - heavy-speed-attack
+  - heavy-speed-attack
+  - speed-attack
+  inventory:
+    heavy-defensive-attack: 5
+    defensive-attack: 1
+    default-attack: 2
+    default-defence: 2
+    speed-attack: 5
+- name: Nin
+  profession: ninja
+  exp: 111
+  renames: 3
+  abilities:
+  - braid
+  - braid
+  - braid
+  - braid
+  - braid
+  - null
+  inventory:
+    tanto-short: 2
+    heavy-defensive-attack: 0
+    braid: 1
+    defensive-attack: 0
+    default-attack: 2
+    default-defence: 2
+    tanto-long: 2
+- name: Jack
+  profession: warrior
+  exp: 91
+  renames: 3
+  abilities:
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - defensive-attack
+  inventory:
+    default-attack: 1
+- name: Rudy
+  profession: warrior
+  exp: 85
+  renames: 3
+  abilities:
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - defensive-attack
+  inventory:
+    cleave: 1
+- name: Pudi
+  profession: warrior
+  exp: 73
+  renames: 3
+  abilities:
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - heavy-defensive-attack
+  - defensive-attack
+  inventory:
+    default-attack: 4
+    default-defence: 1
+tutorialCompleted: true
+uuid: 6fdd922d-c96e-4574-87fe-9536b59077ad
+potionsTutorialCompleted: true
+bossTutorialCompleted: false
+potions:
+  potion-of-antidote: 100
+  potion-of-stupefaction: 100
+  potion-of-petrification: 100
+  potion-of-explosion: 200
+  potion-of-unstable-teleportation: 100
+  potion-of-unstable-luck: 100
+  potion-of-viscosity: 100
+  potion-of-experience: 100
+playPotionsTutorialCompleted: true
+initiativeTutorialCompleted: true
+items:
+  dragonwort: 1
+  feather: 2
+  applebloom: 1
+  web: 1
+  fish: 1
+  fireberries: 1
+  sulfur: 3
+  blood: 1
+  coin: 22727
+  ruby: 1
+  pearl: 1
+levels:
+- w-2
+- c-2
+- c-3
+- a-3
+- w-8
+- a-6
+- w-6
+- a-7
+- w-3
+- c-1
+- a-5
+- a-1
+- a-2
+- c-4
+- w-4
+- a-4
+- w-1
+- w-9
+- w-7
+- w-5
+- c-5
+- tutorial

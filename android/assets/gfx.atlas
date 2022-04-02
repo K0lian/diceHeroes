@@ -1,0 +1,5668 @@
+
+gfx.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ability/Mode/amulet
+  rotate: false
+  xy: 258, 478
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/amulet-icon
+  rotate: false
+  xy: 258, 452
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/amulet_w
+  rotate: false
+  xy: 464, 546
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/bear-pow
+  rotate: false
+  xy: 143, 411
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/bear-pow-icon
+  rotate: false
+  xy: 741, 793
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/bear-pow2
+  rotate: false
+  xy: 258, 426
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/bear-pow2-icon
+  rotate: false
+  xy: 740, 740
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/cannonball
+  rotate: false
+  xy: 90, 13
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/cannonball-icon
+  rotate: false
+  xy: 116, 59
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/glove
+  rotate: false
+  xy: 492, 343
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/glove-icon
+  rotate: false
+  xy: 518, 343
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/glove_w
+  rotate: false
+  xy: 288, 322
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/handcuffs
+  rotate: false
+  xy: 340, 308
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/handcuffs-icon
+  rotate: false
+  xy: 340, 282
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/handcuffs_w
+  rotate: false
+  xy: 366, 300
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/harpoon
+  rotate: false
+  xy: 392, 300
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/harpoon-icon
+  rotate: false
+  xy: 392, 274
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-blue
+  rotate: false
+  xy: 271, 117
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-blue-icone
+  rotate: false
+  xy: 314, 123
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-green
+  rotate: false
+  xy: 340, 104
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-green-icon
+  rotate: false
+  xy: 314, 97
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-purpure
+  rotate: false
+  xy: 366, 97
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-purpure-icon
+  rotate: false
+  xy: 392, 95
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-red
+  rotate: false
+  xy: 340, 78
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-red-icon
+  rotate: false
+  xy: 366, 71
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-white
+  rotate: false
+  xy: 392, 69
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/ki-white-icon
+  rotate: false
+  xy: 418, 320
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/list
+  rotate: false
+  xy: 444, 268
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/list-icon
+  rotate: false
+  xy: 418, 216
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/musket
+  rotate: false
+  xy: 444, 138
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/musket-icon
+  rotate: false
+  xy: 418, 86
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/palka
+  rotate: false
+  xy: 470, 301
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/palka-icon
+  rotate: false
+  xy: 470, 275
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/pirate-saber
+  rotate: false
+  xy: 470, 93
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/pirate-saber-clave
+  rotate: false
+  xy: 470, 67
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/pirate-saber-clave-icon
+  rotate: false
+  xy: 496, 317
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/pirate-saber-icon
+  rotate: false
+  xy: 496, 291
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/pivo
+  rotate: false
+  xy: 496, 265
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/pivo-icon
+  rotate: false
+  xy: 496, 239
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/potion-black-blood-icon
+  rotate: false
+  xy: 496, 83
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/potion-of-e-icon
+  rotate: false
+  xy: 522, 291
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/potion-of-r-icon
+  rotate: false
+  xy: 522, 187
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/potion-of-u-icon
+  rotate: false
+  xy: 522, 135
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/rit-cleave
+  rotate: false
+  xy: 522, 31
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/rit-cleave-icon
+  rotate: false
+  xy: 141, 147
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/rit-cleave_w
+  rotate: false
+  xy: 167, 147
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/rit-dagger
+  rotate: false
+  xy: 193, 147
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/rit-dagger-icon
+  rotate: false
+  xy: 219, 124
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/rit-dagger_w
+  rotate: false
+  xy: 140, 121
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-cleave
+  rotate: false
+  xy: 522, 514
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-cleave-icon
+  rotate: false
+  xy: 781, 714
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-cleave-long
+  rotate: false
+  xy: 784, 740
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-cleave-long-icon
+  rotate: false
+  xy: 553, 693
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-cleave-long_w
+  rotate: false
+  xy: 579, 696
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-cleave_w
+  rotate: false
+  xy: 605, 693
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-glove
+  rotate: false
+  xy: 631, 687
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-glove-icon
+  rotate: false
+  xy: 657, 687
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/thief-glove_w
+  rotate: false
+  xy: 683, 687
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-cleave
+  rotate: false
+  xy: 862, 748
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-cleave-icon
+  rotate: false
+  xy: 888, 748
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-cleave-rage
+  rotate: false
+  xy: 914, 746
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-cleave-rage-icon
+  rotate: false
+  xy: 940, 742
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-cleave-rage_w
+  rotate: false
+  xy: 966, 740
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-cleave_w
+  rotate: false
+  xy: 992, 736
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-dagger
+  rotate: false
+  xy: 859, 714
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-dagger-icon
+  rotate: false
+  xy: 865, 688
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-dagger-rage
+  rotate: false
+  xy: 885, 722
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-dagger-rage-icon
+  rotate: false
+  xy: 911, 720
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-dagger-rage_w
+  rotate: false
+  xy: 937, 716
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-dagger_w
+  rotate: false
+  xy: 963, 714
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-plash
+  rotate: false
+  xy: 989, 710
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-plash-icon
+  rotate: false
+  xy: 579, 670
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/Mode/vamp-plash_w
+  rotate: false
+  xy: 605, 667
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/antidote
+  rotate: false
+  xy: 921, 907
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/antidote-icon
+  rotate: false
+  xy: 954, 898
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/area-of-antidote
+  rotate: false
+  xy: 662, 739
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/area-of-antidote-get-icon
+  rotate: false
+  xy: 255, 386
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+game-antidote-get-icon
+  rotate: false
+  xy: 255, 386
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ability/area-of-antidote-icon
+  rotate: false
+  xy: 688, 739
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/area-of-attack
+  rotate: false
+  xy: 715, 793
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/area-of-attack-get-icon
+  rotate: false
+  xy: 324, 83
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ability/area-of-attack-icon
+  rotate: false
+  xy: 714, 738
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/area-of-defence
+  rotate: false
+  xy: 108, 294
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/area-of-defence-get-icon
+  rotate: false
+  xy: 208, 3
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+ability/cleric-defence-get-icon
+  rotate: false
+  xy: 208, 3
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+ability/area-of-defence-icon
+  rotate: false
+  xy: 106, 239
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/berserk-icon
+  rotate: false
+  xy: 930, 799
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/black-spot
+  rotate: false
+  xy: 767, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/black-spot-icon
+  rotate: false
+  xy: 793, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-1
+  rotate: false
+  xy: 998, 814
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-1-icon
+  rotate: false
+  xy: 871, 774
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-2
+  rotate: false
+  xy: 845, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-2-icon
+  rotate: false
+  xy: 897, 774
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-3
+  rotate: false
+  xy: 871, 800
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-3-icon
+  rotate: false
+  xy: 947, 768
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-4
+  rotate: false
+  xy: 897, 800
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-4-icon
+  rotate: false
+  xy: 997, 762
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-5
+  rotate: false
+  xy: 947, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-5-icon
+  rotate: false
+  xy: 91, 169
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-6
+  rotate: false
+  xy: 997, 788
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/boss-summon-6-icon
+  rotate: false
+  xy: 90, 143
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/braid
+  rotate: false
+  xy: 90, 117
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/braid-icon
+  rotate: false
+  xy: 90, 91
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/chain-lightning
+  rotate: false
+  xy: 284, 460
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/chain-lightning-icon
+  rotate: false
+  xy: 284, 434
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/cleave
+  rotate: false
+  xy: 312, 510
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/cleave-icon
+  rotate: false
+  xy: 338, 510
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/cleric-defence
+  rotate: false
+  xy: 310, 458
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/cleric-defence-icon
+  rotate: false
+  xy: 336, 484
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/cleric-heavy-defence
+  rotate: false
+  xy: 310, 432
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/cleric-heavy-defence-get-icon
+  rotate: false
+  xy: 221, 410
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+ability/cleric-heavy-defence-icon
+  rotate: false
+  xy: 336, 432
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/concentration-icon
+  rotate: false
+  xy: 479, 515
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/default-attack
+  rotate: false
+  xy: 388, 429
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/default-attack-icon
+  rotate: false
+  xy: 414, 476
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/default-defence
+  rotate: false
+  xy: 414, 450
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/default-defence-icon
+  rotate: false
+  xy: 414, 424
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/defensive-attack
+  rotate: false
+  xy: 284, 408
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/defensive-attack-icon
+  rotate: false
+  xy: 310, 406
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/double-defensive-attack
+  rotate: false
+  xy: 388, 403
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/double-defensive-attack-icon
+  rotate: false
+  xy: 414, 398
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/dragon-enthrallment
+  rotate: false
+  xy: 492, 447
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/dragon-enthrallment-icon
+  rotate: false
+  xy: 492, 421
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/eery-mask
+  rotate: false
+  xy: 336, 380
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/eery-mask-icon
+  rotate: false
+  xy: 362, 377
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/elven-defence
+  rotate: false
+  xy: 388, 377
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/elven-defence-icon
+  rotate: false
+  xy: 414, 372
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/enthrallment-icon
+  rotate: false
+  xy: 293, 365
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/fireball
+  rotate: false
+  xy: 236, 282
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/fireball-icon
+  rotate: false
+  xy: 267, 356
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/firestorm
+  rotate: false
+  xy: 262, 304
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/firestorm-icon
+  rotate: false
+  xy: 262, 278
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/freeze
+  rotate: false
+  xy: 388, 351
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/freeze-icon
+  rotate: false
+  xy: 414, 346
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-attack
+  rotate: false
+  xy: 392, 248
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-attack-icon
+  rotate: false
+  xy: 132, 225
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-chain-lightning
+  rotate: false
+  xy: 139, 199
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-chain-lightning-icon
+  rotate: false
+  xy: 141, 173
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-cleave
+  rotate: false
+  xy: 158, 225
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-cleave-icon
+  rotate: false
+  xy: 165, 199
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-defence
+  rotate: false
+  xy: 167, 173
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-defence-icon
+  rotate: false
+  xy: 184, 225
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-defensive-attack
+  rotate: false
+  xy: 191, 199
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-defensive-attack-icon
+  rotate: false
+  xy: 193, 173
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-elven-defence
+  rotate: false
+  xy: 210, 228
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-elven-defence-icon
+  rotate: false
+  xy: 236, 231
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-fireball
+  rotate: false
+  xy: 217, 202
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-fireball-icon
+  rotate: false
+  xy: 219, 176
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-firestorm
+  rotate: false
+  xy: 288, 195
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-firestorm-icon
+  rotate: false
+  xy: 314, 175
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-shot
+  rotate: false
+  xy: 340, 156
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-shot-icon
+  rotate: false
+  xy: 366, 149
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-speed-attack
+  rotate: false
+  xy: 392, 147
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/heavy-speed-attack-icon
+  rotate: false
+  xy: 245, 177
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/ice-storm
+  rotate: false
+  xy: 219, 150
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/ice-storm-icon
+  rotate: false
+  xy: 271, 143
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/invulnerability-icon
+  rotate: false
+  xy: 293, 348
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/transform-to-obstacle-icon
+  rotate: false
+  xy: 293, 348
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/petrification
+  rotate: false
+  xy: 470, 223
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/petrification-icon
+  rotate: false
+  xy: 470, 197
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/poison-dart-icon
+  rotate: false
+  xy: 360, 334
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/poison-shot
+  rotate: false
+  xy: 496, 187
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/poison-shot-icon
+  rotate: false
+  xy: 496, 161
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/poisonous-dust
+  rotate: false
+  xy: 496, 135
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/poisonous-dust-icon
+  rotate: false
+  xy: 496, 109
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-antidote-icon
+  rotate: false
+  xy: 522, 317
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-experience-icon
+  rotate: false
+  xy: 522, 265
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-explosion-icon
+  rotate: false
+  xy: 522, 239
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-petrification-icon
+  rotate: false
+  xy: 522, 213
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-stupefaction-icon
+  rotate: false
+  xy: 522, 161
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-unstable-luck-icon
+  rotate: false
+  xy: 522, 109
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-unstable-teleportation-icon
+  rotate: false
+  xy: 522, 83
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/potion-of-viscosity-icon
+  rotate: false
+  xy: 496, 57
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/resurrection-icon
+  rotate: false
+  xy: 297, 152
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/sai
+  rotate: false
+  xy: 166, 121
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/sai-icon
+  rotate: false
+  xy: 166, 95
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/shaman-heavy-defence-icon
+  rotate: false
+  xy: 297, 135
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/shot
+  rotate: false
+  xy: 194, 43
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/shot-icon
+  rotate: false
+  xy: 194, 17
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/skip-turn
+  rotate: false
+  xy: 220, 46
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/skip-turn-icon
+  rotate: false
+  xy: 220, 20
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/speed
+  rotate: false
+  xy: 271, 91
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/speed-attack
+  rotate: false
+  xy: 246, 54
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/speed-attack-icon
+  rotate: false
+  xy: 246, 28
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/speed-defence-icon
+  rotate: false
+  xy: 297, 118
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/speed-icon
+  rotate: false
+  xy: 246, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/staff-of-teleportation
+  rotate: false
+  xy: 272, 65
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/staff-of-teleportation-icon
+  rotate: false
+  xy: 272, 39
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/stupefaction
+  rotate: false
+  xy: 324, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/stupefaction-icon
+  rotate: false
+  xy: 324, 26
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/summon-dale
+  rotate: false
+  xy: 402, 34
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/summon-dale-icon
+  rotate: false
+  xy: 428, 34
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/summon-icon
+  rotate: false
+  xy: 297, 101
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/super-attack
+  rotate: false
+  xy: 492, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/super-attack-icon
+  rotate: false
+  xy: 518, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/super-elven-defence
+  rotate: false
+  xy: 581, 722
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/super-elven-defence-icon
+  rotate: false
+  xy: 607, 719
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/suricen
+  rotate: false
+  xy: 633, 713
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/suricen-icon
+  rotate: false
+  xy: 659, 713
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/tambourine-of-oblivion
+  rotate: false
+  xy: 685, 713
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/tambourine-of-oblivion-icon
+  rotate: false
+  xy: 711, 712
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/tanto-long
+  rotate: false
+  xy: 743, 714
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/tanto-long-icon
+  rotate: false
+  xy: 519, 618
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/tanto-short
+  rotate: false
+  xy: 517, 592
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/tanto-short-icon
+  rotate: false
+  xy: 516, 566
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/teleport-icon
+  rotate: false
+  xy: 298, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ability/viscosity
+  rotate: false
+  xy: 683, 661
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ability/viscosity-icon
+  rotate: false
+  xy: 709, 660
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+achievement/first-ingredient
+  rotate: false
+  xy: 310, 354
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/arrow-1
+  rotate: false
+  xy: 866, 878
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/arrow-2
+  rotate: false
+  xy: 854, 852
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/attack-weapon-1
+  rotate: false
+  xy: 764, 904
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/attack-weapon-1
+  rotate: false
+  xy: 611, 820
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/attack-weapon-1
+  rotate: false
+  xy: 490, 546
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/attack-weapon-1-diagonal
+  rotate: false
+  xy: 496, 673
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/attack-weapon-1-ortogonal
+  rotate: false
+  xy: 925, 933
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/attack-weapon-2
+  rotate: false
+  xy: 848, 912
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/attack-weapon-2
+  rotate: false
+  xy: 108, 320
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/attack-weapon-2
+  rotate: false
+  xy: 722, 819
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/attack-weapon-2-diagonal
+  rotate: false
+  xy: 637, 821
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/attack-weapon-2-ortogonal
+  rotate: false
+  xy: 790, 912
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/aura-of-protection
+  rotate: false
+  xy: 122, 484
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+animation/aura-of-protection
+  rotate: false
+  xy: 544, 805
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+animation/aura-of-protection
+  rotate: false
+  xy: 158, 480
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+animation/berserk-weapon-3-diagonal
+  rotate: false
+  xy: 632, 850
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: 1
+animation/berserk-weapon-3-diagonal
+  rotate: false
+  xy: 737, 849
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: 2
+animation/berserk-weapon-3-diagonal
+  rotate: false
+  xy: 2, 287
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: 3
+animation/berserk-weapon-3-ortogonal
+  rotate: false
+  xy: 2, 232
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: 1
+animation/berserk-weapon-3-ortogonal
+  rotate: false
+  xy: 51, 311
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: 2
+animation/berserk-weapon-3-ortogonal
+  rotate: false
+  xy: 409, 806
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: 3
+animation/black-spot
+  rotate: false
+  xy: 402, 774
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 1
+animation/black-spot
+  rotate: false
+  xy: 402, 742
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 2
+animation/black-spot
+  rotate: false
+  xy: 402, 710
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 3
+animation/black-spot
+  rotate: false
+  xy: 463, 769
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 4
+animation/chain-lightning
+  rotate: false
+  xy: 774, 820
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/chain-lightning
+  rotate: false
+  xy: 610, 771
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/chain-lightning
+  rotate: false
+  xy: 636, 765
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/defence-blink
+  rotate: false
+  xy: 440, 476
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/defence-weapon-1
+  rotate: false
+  xy: 440, 450
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+animation/defence-weapon-1
+  rotate: false
+  xy: 440, 424
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+animation/defence-weapon-1
+  rotate: false
+  xy: 453, 502
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+animation/defence-weapon-2
+  rotate: false
+  xy: 466, 476
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+animation/defence-weapon-2
+  rotate: false
+  xy: 466, 450
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+animation/defence-weapon-2
+  rotate: false
+  xy: 466, 424
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+animation/defensive-attack
+  rotate: false
+  xy: 662, 765
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/defensive-attack
+  rotate: false
+  xy: 688, 765
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/defensive-attack
+  rotate: false
+  xy: 714, 764
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/defensive-attack-diagonal
+  rotate: false
+  xy: 434, 674
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+animation/defensive-attack-ortogonal
+  rotate: false
+  xy: 465, 674
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+animation/double-defensive-attack
+  rotate: false
+  xy: 973, 793
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: 1
+animation/double-defensive-attack
+  rotate: false
+  xy: 923, 772
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: 2
+animation/double-defensive-attack
+  rotate: false
+  xy: 973, 766
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: 3
+animation/eery-mask
+  rotate: false
+  xy: 158, 382
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: 1
+animation/eery-mask
+  rotate: false
+  xy: 184, 382
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: 2
+animation/eery-mask
+  rotate: false
+  xy: 160, 325
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: 3
+animation/effect-invulnerability
+  rotate: false
+  xy: 169, 438
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 1
+animation/effect-invulnerability
+  rotate: false
+  xy: 210, 382
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 2
+animation/effect-invulnerability
+  rotate: false
+  xy: 211, 354
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 3
+animation/effect-invulnerability
+  rotate: false
+  xy: 212, 326
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 4
+animation/effect-invulnerability
+  rotate: false
+  xy: 212, 298
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 5
+animation/effect-invulnerability
+  rotate: false
+  xy: 91, 195
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 6
+animation/effect-invulnerability
+  rotate: false
+  xy: 115, 197
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 7
+animation/effect-invulnerability
+  rotate: false
+  xy: 117, 169
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 8
+animation/effect-invulnerability
+  rotate: false
+  xy: 116, 141
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 9
+animation/effect-invulnerability
+  rotate: false
+  xy: 116, 113
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 10
+animation/effect-invulnerability
+  rotate: false
+  xy: 116, 85
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: 11
+animation/firestorm
+  rotate: false
+  xy: 106, 265
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/firestorm
+  rotate: false
+  xy: 998, 869
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/firestorm
+  rotate: false
+  xy: 519, 644
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/heavy-defensive-attack
+  rotate: false
+  xy: 840, 883
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/heavy-defensive-attack
+  rotate: false
+  xy: 800, 820
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/heavy-defensive-attack
+  rotate: false
+  xy: 828, 852
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/heavy-defensive-attack-diagonal
+  rotate: false
+  xy: 433, 643
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+animation/heavy-defensive-attack-ortogonal
+  rotate: false
+  xy: 433, 612
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+animation/heavy-firestorm
+  rotate: false
+  xy: 906, 852
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/heavy-firestorm
+  rotate: false
+  xy: 998, 840
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/heavy-firestorm
+  rotate: false
+  xy: 117, 440
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/heavy-speed-attack
+  rotate: false
+  xy: 117, 411
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/heavy-speed-attack
+  rotate: false
+  xy: 143, 437
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/heavy-speed-attack
+  rotate: false
+  xy: 132, 382
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/heavy-speed-attack-diagonal
+  rotate: false
+  xy: 819, 912
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/heavy-speed-attack-ortogonal
+  rotate: false
+  xy: 524, 740
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/levelup-circle
+  rotate: false
+  xy: 464, 841
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: 1
+animation/levelup-circle
+  rotate: false
+  xy: 520, 841
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: 2
+animation/levelup-circle
+  rotate: false
+  xy: 576, 849
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: 3
+animation/levelup-circle
+  rotate: false
+  xy: 681, 848
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: 4
+animation/levelup-white-cube
+  rotate: false
+  xy: 418, 242
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/petrification-shot
+  rotate: false
+  xy: 470, 171
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/poison-dart
+  rotate: false
+  xy: 496, 213
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+animation/speed-attack
+  rotate: false
+  xy: 185, 353
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+animation/speed-attack
+  rotate: false
+  xy: 134, 324
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+animation/speed-attack
+  rotate: false
+  xy: 134, 295
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 3
+animation/speed-attack-diagonal
+  rotate: false
+  xy: 581, 777
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/speed-attack-ortogonal
+  rotate: false
+  xy: 581, 748
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+animation/staff-of-teleportation
+  rotate: false
+  xy: 186, 325
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: 1
+animation/staff-of-teleportation
+  rotate: false
+  xy: 186, 297
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: 2
+animation/staff-of-teleportation
+  rotate: false
+  xy: 221, 428
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: 3
+animation/summon-ally
+  rotate: false
+  xy: 350, 19
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+animation/summon-ally
+  rotate: false
+  xy: 376, 43
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+animation/summon-ally
+  rotate: false
+  xy: 376, 17
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+animation/summon-enemy
+  rotate: false
+  xy: 402, 8
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+animation/summon-enemy
+  rotate: false
+  xy: 428, 8
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+animation/summon-enemy
+  rotate: false
+  xy: 454, 15
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+animation/super-elven-defence
+  rotate: false
+  xy: 433, 583
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: 1
+animation/super-elven-defence
+  rotate: false
+  xy: 580, 820
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: 2
+animation/super-elven-defence
+  rotate: false
+  xy: 433, 554
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: 3
+animation/super-elven-defence
+  rotate: false
+  xy: 894, 933
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: 4
+animation/tambourine-of-oblivion
+  rotate: false
+  xy: 553, 775
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 1
+animation/tambourine-of-oblivion
+  rotate: false
+  xy: 553, 745
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 2
+animation/tambourine-of-oblivion
+  rotate: false
+  xy: 258, 534
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 3
+animation/teleport-in
+  rotate: false
+  xy: 122, 470
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 1
+animation/teleport-in
+  rotate: false
+  xy: 580, 806
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 2
+animation/teleport-in
+  rotate: false
+  xy: 954, 938
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 3
+animation/teleport-in
+  rotate: false
+  xy: 245, 564
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 4
+animation/teleport-in
+  rotate: false
+  xy: 281, 564
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 5
+animation/teleport-out
+  rotate: false
+  xy: 158, 466
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 1
+animation/teleport-out
+  rotate: false
+  xy: 194, 470
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 2
+animation/teleport-out
+  rotate: false
+  xy: 194, 456
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 3
+animation/teleport-out
+  rotate: false
+  xy: 461, 532
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 4
+animation/teleport-out
+  rotate: false
+  xy: 954, 924
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: 5
+animation/viscosity-shot
+  rotate: false
+  xy: 735, 660
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+background-object/cloud1
+  rotate: false
+  xy: 558, 905
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+background-object/cloud2
+  rotate: false
+  xy: 956, 988
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+background-object/dark-cloud1
+  rotate: false
+  xy: 622, 905
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+background-object/dark-cloud2
+  rotate: false
+  xy: 956, 952
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+cover/carpet-even
+  rotate: false
+  xy: 116, 7
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+cover/carpet-odd
+  rotate: false
+  xy: 553, 719
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+cover/crystals-even
+  rotate: false
+  xy: 388, 481
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+cover/crystals-odd
+  rotate: false
+  xy: 388, 455
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+cover/mode/kust
+  rotate: false
+  xy: 418, 294
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+creature-effect-freeze
+  rotate: false
+  xy: 169, 410
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+creature-name-background
+  rotate: false
+  xy: 193, 439
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+effect-chain-lightning-segment
+  rotate: false
+  xy: 548, 673
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+effect-icon/area-attack-2
+  rotate: false
+  xy: 252, 203
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/black-spot
+  rotate: false
+  xy: 238, 555
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/boss-protection
+  rotate: false
+  xy: 927, 677
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/defence-weapon-2
+  rotate: false
+  xy: 927, 677
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cleric-defence-1
+  rotate: false
+  xy: 913, 663
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cleric-defence-2
+  rotate: false
+  xy: 927, 668
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-berserk
+  rotate: false
+  xy: 556, 485
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-concentration
+  rotate: false
+  xy: 556, 476
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-enthrallment
+  rotate: false
+  xy: 556, 467
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-poison-dart
+  rotate: false
+  xy: 556, 440
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-resurrection
+  rotate: false
+  xy: 556, 431
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-shaman-heavy-defence
+  rotate: false
+  xy: 556, 422
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-speed-defence
+  rotate: false
+  xy: 556, 413
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-summon
+  rotate: false
+  xy: 556, 395
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-teleport
+  rotate: false
+  xy: 556, 386
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/cooldown-transform-to-obstacle
+  rotate: false
+  xy: 556, 377
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/defence-weapon-1
+  rotate: false
+  xy: 556, 368
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/eery-mask
+  rotate: false
+  xy: 556, 350
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/enthrallment
+  rotate: false
+  xy: 551, 341
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/freeze
+  rotate: false
+  xy: 548, 332
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/ignore-defence
+  rotate: false
+  xy: 548, 305
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/invulnerability
+  rotate: false
+  xy: 548, 296
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/0-void
+  rotate: false
+  xy: 402, 60
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/defence-weapon-3
+  rotate: false
+  xy: 556, 359
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/handcuffs
+  rotate: false
+  xy: 548, 314
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/lucky-coin
+  rotate: false
+  xy: 548, 287
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/blue-ki
+  rotate: false
+  xy: 247, 555
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/green-ki
+  rotate: false
+  xy: 548, 323
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/purpure-ki
+  rotate: false
+  xy: 548, 251
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/red-ki
+  rotate: false
+  xy: 548, 242
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/ui-blue-ki
+  rotate: false
+  xy: 577, 658
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/ui-green-ki
+  rotate: false
+  xy: 544, 362
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/ui-purpure-ki
+  rotate: false
+  xy: 915, 696
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/ui-red-ki
+  rotate: false
+  xy: 903, 672
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/ui-white-ki
+  rotate: false
+  xy: 927, 686
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/monk/white-ki
+  rotate: false
+  xy: 548, 188
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ninja/cooldown-jerk
+  rotate: false
+  xy: 556, 458
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ninja/cooldown-speedy
+  rotate: false
+  xy: 556, 404
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ninja/ui-cooldown-jerk
+  rotate: false
+  xy: 891, 698
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ninja/ui-cooldown-speedy
+  rotate: false
+  xy: 544, 470
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ui-defence-weapon-3
+  rotate: false
+  xy: 544, 410
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ui-handcuffs
+  rotate: false
+  xy: 544, 350
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/ui-lucky-coin
+  rotate: false
+  xy: 903, 696
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/vampire/1-health
+  rotate: false
+  xy: 892, 878
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/vampire/2-health
+  rotate: false
+  xy: 243, 203
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/vampire/cooldown-life
+  rotate: false
+  xy: 556, 449
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/mode/vampire/ui-1-health
+  rotate: false
+  xy: 478, 3
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/vampire/ui-2-health
+  rotate: false
+  xy: 536, 502
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/mode/vampire/ui-cooldown-life
+  rotate: false
+  xy: 891, 686
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/more
+  rotate: false
+  xy: 548, 278
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/poison
+  rotate: false
+  xy: 548, 260
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/stupefaction
+  rotate: false
+  xy: 548, 233
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/tambourine-of-oblivion
+  rotate: false
+  xy: 548, 224
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-icon/ui-area-attack-2
+  rotate: false
+  xy: 548, 506
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-black-spot
+  rotate: false
+  xy: 565, 655
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-boss-protection
+  rotate: false
+  xy: 589, 658
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-defence-weapon-2
+  rotate: false
+  xy: 589, 658
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cleric-defence-1
+  rotate: false
+  xy: 373, 5
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cleric-defence-2
+  rotate: false
+  xy: 385, 5
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-berserk
+  rotate: false
+  xy: 601, 655
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-concentration
+  rotate: false
+  xy: 613, 655
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-enthrallment
+  rotate: false
+  xy: 891, 710
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-poison-dart
+  rotate: false
+  xy: 891, 674
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-resurrection
+  rotate: false
+  xy: 891, 662
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-shaman-heavy-defence
+  rotate: false
+  xy: 548, 494
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-speed-defence
+  rotate: false
+  xy: 544, 482
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-summon
+  rotate: false
+  xy: 544, 458
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-teleport
+  rotate: false
+  xy: 544, 446
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-cooldown-transform-to-obstacle
+  rotate: false
+  xy: 544, 434
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-defence-weapon-1
+  rotate: false
+  xy: 544, 422
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-eery-mask
+  rotate: false
+  xy: 544, 398
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-enthrallment
+  rotate: false
+  xy: 544, 386
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-freeze
+  rotate: false
+  xy: 544, 374
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-ignore-defence
+  rotate: false
+  xy: 903, 708
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-invulnerability
+  rotate: false
+  xy: 915, 708
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-poison
+  rotate: false
+  xy: 903, 684
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-stupefaction
+  rotate: false
+  xy: 915, 684
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-tambourine-of-oblivion
+  rotate: false
+  xy: 915, 672
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/ui-viscosity
+  rotate: false
+  xy: 927, 698
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect-icon/viscosity
+  rotate: false
+  xy: 548, 197
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+effect-luck-image
+  rotate: false
+  xy: 160, 617
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+effect-potion-of-viscosity-image
+  rotate: false
+  xy: 492, 737
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+effect-viscosity-image
+  rotate: false
+  xy: 492, 737
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ending-pic
+  rotate: false
+  xy: 480, 959
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+exit-pic
+  rotate: false
+  xy: 324, 810
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+font
+  rotate: false
+  xy: 324, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-eery-mask-get-icon
+  rotate: false
+  xy: 932, 864
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+item/any-ingredient
+  rotate: false
+  xy: 980, 898
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/applebloom
+  rotate: false
+  xy: 610, 745
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/blood
+  rotate: false
+  xy: 819, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/coin
+  rotate: false
+  xy: 375, 507
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/dragonwort
+  rotate: false
+  xy: 236, 308
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/feather
+  rotate: false
+  xy: 440, 372
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/fireberries
+  rotate: false
+  xy: 262, 330
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/fish
+  rotate: false
+  xy: 336, 354
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/mode/fish2
+  rotate: false
+  xy: 362, 351
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/mode/sakura
+  rotate: false
+  xy: 192, 121
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/pearl
+  rotate: false
+  xy: 470, 249
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/ruby
+  rotate: false
+  xy: 140, 95
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/sulfur
+  rotate: false
+  xy: 350, 45
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+item/web
+  rotate: false
+  xy: 813, 662
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/appletree
+  rotate: false
+  xy: 637, 794
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+obstacle/archer-bush
+  rotate: false
+  xy: 689, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/arena-bones
+  rotate: false
+  xy: 894, 887
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/arena-torch
+  rotate: false
+  xy: 972, 872
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/arena-trap
+  rotate: false
+  xy: 814, 881
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/barrels
+  rotate: false
+  xy: 880, 852
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/bones
+  rotate: false
+  xy: 826, 820
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/boss-bones
+  rotate: false
+  xy: 852, 826
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/boss-lava
+  rotate: false
+  xy: 946, 820
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/boss-mushroom
+  rotate: false
+  xy: 972, 820
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/bush
+  rotate: false
+  xy: 90, 65
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/cactus-short
+  rotate: false
+  xy: 90, 39
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/cactus-tall1
+  rotate: false
+  xy: 748, 820
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+obstacle/cactus-tall2
+  rotate: false
+  xy: 464, 605
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+obstacle/carpet
+  rotate: false
+  xy: 116, 33
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/column
+  rotate: false
+  xy: 401, 509
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/column-damaged
+  rotate: false
+  xy: 427, 502
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/crack
+  rotate: false
+  xy: 362, 481
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/crystal
+  rotate: false
+  xy: 362, 455
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/crystal-violet
+  rotate: false
+  xy: 362, 429
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/fence-bottom-left
+  rotate: false
+  xy: 466, 372
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/fence-top-left
+  rotate: false
+  xy: 492, 369
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/fence-top-right
+  rotate: false
+  xy: 518, 369
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/fountain
+  rotate: false
+  xy: 160, 297
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+obstacle/house-bottom-left
+  rotate: false
+  xy: 340, 130
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/house-bottom-right
+  rotate: false
+  xy: 366, 123
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/house-top-left
+  rotate: false
+  xy: 392, 121
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/house-top-right
+  rotate: false
+  xy: 245, 151
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/lake-bottom-left
+  rotate: false
+  xy: 444, 320
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/lake-bottom-right
+  rotate: false
+  xy: 418, 268
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/lake-top-left
+  rotate: false
+  xy: 527, 769
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+obstacle/lake-top-right
+  rotate: false
+  xy: 524, 708
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+obstacle/lava
+  rotate: false
+  xy: 444, 294
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/mode/sakura
+  rotate: false
+  xy: 490, 575
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+obstacle/mushroom
+  rotate: false
+  xy: 418, 112
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/palm1
+  rotate: false
+  xy: 464, 572
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+obstacle/palm2
+  rotate: false
+  xy: 434, 772
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+obstacle/pots
+  rotate: false
+  xy: 740, 766
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+obstacle/pumpkin
+  rotate: false
+  xy: 496, 31
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/sign
+  rotate: false
+  xy: 220, 72
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/small-lake
+  rotate: false
+  xy: 159, 353
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+obstacle/stone-die
+  rotate: false
+  xy: 258, 504
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+obstacle/stone1
+  rotate: false
+  xy: 272, 13
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/stone2
+  rotate: false
+  xy: 298, 71
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/table-meat
+  rotate: false
+  xy: 376, 533
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+obstacle/tentacles
+  rotate: false
+  xy: 545, 621
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/torch
+  rotate: false
+  xy: 709, 686
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/trap
+  rotate: false
+  xy: 735, 686
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/tree
+  rotate: false
+  xy: 761, 688
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+obstacle/treeshroom
+  rotate: false
+  xy: 106, 369
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+obstacle/treeshroom-pair
+  rotate: false
+  xy: 490, 641
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+obstacle/well
+  rotate: false
+  xy: 839, 662
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+particle-note
+  rotate: false
+  xy: 946, 898
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+particle-question-mark
+  rotate: false
+  xy: 411, 60
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+particle-spark
+  rotate: false
+  xy: 834, 907
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+particle-spiral
+  rotate: false
+  xy: 548, 269
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+particle-white-pixel
+  rotate: false
+  xy: 460, 769
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-reward-window-background
+  rotate: false
+  xy: 460, 769
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-archer-progress
+  rotate: false
+  xy: 234, 407
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-boss-progress
+  rotate: false
+  xy: 607, 745
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-dragon-progress
+  rotate: false
+  xy: 607, 745
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-cleric-progress
+  rotate: false
+  xy: 489, 343
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-down
+  rotate: false
+  xy: 271, 186
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+profession-ability-mage-progress
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-shaman-progress
+  rotate: false
+  xy: 461, 551
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession-ability-up
+  rotate: false
+  xy: 271, 169
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+profession-ability-warrior-progress
+  rotate: false
+  xy: 811, 884
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+profession/archer
+  rotate: false
+  xy: 663, 794
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/archer-enemy
+  rotate: false
+  xy: 636, 739
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/boss-enemy
+  rotate: false
+  xy: 525, 678
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+profession/cleric
+  rotate: false
+  xy: 310, 484
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/cleric-enemy
+  rotate: false
+  xy: 336, 458
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-ame
+  rotate: false
+  xy: 440, 398
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-ame-enemy
+  rotate: false
+  xy: 466, 398
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-dia
+  rotate: false
+  xy: 496, 499
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-dia-enemy
+  rotate: false
+  xy: 492, 473
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-jade
+  rotate: false
+  xy: 492, 395
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-jade-enemy
+  rotate: false
+  xy: 518, 473
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-lazu
+  rotate: false
+  xy: 518, 447
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-lazu-enemy
+  rotate: false
+  xy: 518, 421
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-ruby
+  rotate: false
+  xy: 518, 395
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-ruby-enemy
+  rotate: false
+  xy: 258, 400
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-sil
+  rotate: false
+  xy: 235, 360
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/dragon-sil-enemy
+  rotate: false
+  xy: 236, 334
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mage
+  rotate: false
+  xy: 444, 242
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mage-enemy
+  rotate: false
+  xy: 418, 190
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/bear
+  rotate: false
+  xy: 946, 846
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/bear-enemy
+  rotate: false
+  xy: 972, 846
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/druid
+  rotate: false
+  xy: 284, 382
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/druid-enemy
+  rotate: false
+  xy: 310, 380
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/horseman
+  rotate: false
+  xy: 288, 169
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/horseman-enemy
+  rotate: false
+  xy: 314, 149
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/monk
+  rotate: false
+  xy: 444, 190
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/monk-enemy
+  rotate: false
+  xy: 418, 138
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/necromancer
+  rotate: false
+  xy: 444, 112
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/necromancer-enemy
+  rotate: false
+  xy: 444, 86
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/pirate
+  rotate: false
+  xy: 470, 145
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/pirate-enemy
+  rotate: false
+  xy: 470, 119
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/thief
+  rotate: false
+  xy: 518, 540
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/thief-enemy
+  rotate: false
+  xy: 551, 667
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/vampire
+  rotate: false
+  xy: 631, 661
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/mode/vampire-enemy
+  rotate: false
+  xy: 657, 661
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/ninja
+  rotate: false
+  xy: 418, 60
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/ninja-enemy
+  rotate: false
+  xy: 444, 60
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/shaman
+  rotate: false
+  xy: 168, 17
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/shaman-enemy
+  rotate: false
+  xy: 194, 69
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/warrior
+  rotate: false
+  xy: 761, 662
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+profession/warrior-enemy
+  rotate: false
+  xy: 787, 662
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+selection/move
+  rotate: false
+  xy: 444, 164
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+selection/spawn
+  rotate: false
+  xy: 245, 99
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+selection/turn
+  rotate: false
+  xy: 787, 688
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+selection/turn-confirmation
+  rotate: false
+  xy: 807, 714
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+selection/turn-confirmation-background
+  rotate: false
+  xy: 810, 740
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+step-detector/archer-glow
+  rotate: false
+  xy: 194, 484
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/archer-off
+  rotate: false
+  xy: 226, 484
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/archer-on
+  rotate: false
+  xy: 464, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/mage-on
+  rotate: false
+  xy: 464, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/shaman-on
+  rotate: false
+  xy: 464, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/warrior-on
+  rotate: false
+  xy: 464, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/cleric-on
+  rotate: false
+  xy: 464, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/archer-on-glow
+  rotate: false
+  xy: 504, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/shaman-on-glow
+  rotate: false
+  xy: 504, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/cleric-on-glow
+  rotate: false
+  xy: 504, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/warrior-on-glow
+  rotate: false
+  xy: 504, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/mage-on-glow
+  rotate: false
+  xy: 504, 801
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+step-detector/cleric-glow
+  rotate: false
+  xy: 495, 769
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/cleric-off
+  rotate: false
+  xy: 460, 737
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/mage-glow
+  rotate: false
+  xy: 434, 705
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/mage-off
+  rotate: false
+  xy: 466, 705
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/shaman-glow
+  rotate: false
+  xy: 402, 678
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/shaman-off
+  rotate: false
+  xy: 401, 646
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/warrior-glow
+  rotate: false
+  xy: 401, 614
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+step-detector/warrior-off
+  rotate: false
+  xy: 401, 582
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-corner-bottom-left
+  rotate: false
+  xy: 106, 434
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-corner-bottom-right
+  rotate: false
+  xy: 106, 434
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-corner-top-left
+  rotate: false
+  xy: 90, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-corner-top-right
+  rotate: false
+  xy: 90, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-even
+  rotate: false
+  xy: 920, 881
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-odd
+  rotate: false
+  xy: 946, 872
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-outline
+  rotate: false
+  xy: 1006, 900
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+tile/arena-bricks-overhang
+  rotate: false
+  xy: 434, 737
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-corner-bottom-left
+  rotate: false
+  xy: 95, 276
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-corner-bottom-right
+  rotate: false
+  xy: 95, 276
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-corner-top-left
+  rotate: false
+  xy: 101, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-corner-top-right
+  rotate: false
+  xy: 101, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-even
+  rotate: false
+  xy: 878, 826
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-odd
+  rotate: false
+  xy: 904, 826
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-outline
+  rotate: false
+  xy: 247, 430
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+tile/boss-bricks-overhang
+  rotate: false
+  xy: 498, 702
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-corner-bottom-left
+  rotate: false
+  xy: 106, 399
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-corner-bottom-right
+  rotate: false
+  xy: 95, 241
+  size: 9, 33
+  orig: 9, 33
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-corner-top-left
+  rotate: false
+  xy: 272, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-corner-top-right
+  rotate: false
+  xy: 272, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-even
+  rotate: false
+  xy: 286, 512
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-odd
+  rotate: false
+  xy: 284, 486
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-outline
+  rotate: false
+  xy: 364, 510
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+tile/castle-bricks-overhang
+  rotate: false
+  xy: 464, 639
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+tile/grass-even
+  rotate: false
+  xy: 288, 296
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/grass-odd
+  rotate: false
+  xy: 314, 328
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/grass-outline
+  rotate: false
+  xy: 261, 360
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 1
+tile/grass-outline
+  rotate: false
+  xy: 480, 15
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 2
+tile/grass-outline
+  rotate: false
+  xy: 486, 15
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 3
+tile/grass-outline
+  rotate: false
+  xy: 544, 5
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 4
+tile/grass-overhang-both
+  rotate: false
+  xy: 288, 271
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/grass-overhang-both
+  rotate: false
+  xy: 377, 326
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/grass-overhang-both
+  rotate: false
+  xy: 366, 275
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/grass-overhang-left
+  rotate: false
+  xy: 340, 257
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/grass-overhang-left
+  rotate: false
+  xy: 314, 251
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/grass-overhang-left
+  rotate: false
+  xy: 366, 250
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/grass-overhang-none
+  rotate: false
+  xy: 340, 232
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/grass-overhang-none
+  rotate: false
+  xy: 366, 225
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/grass-overhang-none
+  rotate: false
+  xy: 392, 223
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/grass-overhang-right
+  rotate: false
+  xy: 236, 257
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/grass-overhang-right
+  rotate: false
+  xy: 262, 253
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/grass-overhang-right
+  rotate: false
+  xy: 288, 246
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/ground-even
+  rotate: false
+  xy: 314, 302
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/ground-odd
+  rotate: false
+  xy: 314, 276
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/ground-outline
+  rotate: false
+  xy: 545, 647
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 1
+tile/ground-outline
+  rotate: false
+  xy: 737, 712
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 2
+tile/ground-outline
+  rotate: false
+  xy: 766, 740
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 3
+tile/ground-outline
+  rotate: false
+  xy: 769, 714
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 4
+tile/ground-overhang-both
+  rotate: false
+  xy: 314, 226
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/ground-overhang-both
+  rotate: false
+  xy: 210, 254
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/ground-overhang-both
+  rotate: false
+  xy: 262, 228
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/ground-overhang-left
+  rotate: false
+  xy: 288, 221
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/ground-overhang-left
+  rotate: false
+  xy: 340, 207
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/ground-overhang-left
+  rotate: false
+  xy: 314, 201
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/ground-overhang-none
+  rotate: false
+  xy: 366, 200
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/ground-overhang-none
+  rotate: false
+  xy: 392, 198
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/ground-overhang-none
+  rotate: false
+  xy: 340, 182
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/ground-overhang-right
+  rotate: false
+  xy: 366, 175
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 1
+tile/ground-overhang-right
+  rotate: false
+  xy: 392, 173
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 2
+tile/ground-overhang-right
+  rotate: false
+  xy: 262, 203
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: 3
+tile/magic-ground-even
+  rotate: false
+  xy: 444, 216
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/magic-ground-odd
+  rotate: false
+  xy: 418, 164
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/magic-ground-outline
+  rotate: false
+  xy: 238, 591
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: 1
+tile/magic-ground-outline
+  rotate: false
+  xy: 238, 565
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: 2
+tile/magic-ground-outline
+  rotate: false
+  xy: 947, 907
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: 3
+tile/magic-ground-outline
+  rotate: false
+  xy: 1017, 900
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: 4
+tile/magic-ground-overhang
+  rotate: false
+  xy: 286, 538
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 1
+tile/magic-ground-overhang
+  rotate: false
+  xy: 316, 536
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 2
+tile/magic-ground-overhang
+  rotate: false
+  xy: 346, 536
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 3
+tile/magic-ground-overhang
+  rotate: false
+  xy: 401, 535
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 4
+tile/magic-ground-overhang
+  rotate: false
+  xy: 431, 528
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 5
+tile/magic-ground-overhang
+  rotate: false
+  xy: 990, 926
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: 6
+tile/sand-even
+  rotate: false
+  xy: 142, 43
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/sand-odd
+  rotate: false
+  xy: 168, 69
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/sand-outline
+  rotate: false
+  xy: 772, 740
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 1
+tile/sand-outline
+  rotate: false
+  xy: 775, 714
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 2
+tile/sand-outline
+  rotate: false
+  xy: 778, 740
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: 3
+tile/sand-overhang
+  rotate: false
+  xy: 195, 410
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 1
+tile/sand-overhang
+  rotate: false
+  xy: 133, 353
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: 2
+tile/wooden-bridge-even
+  rotate: false
+  xy: 865, 662
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/wooden-bridge-odd
+  rotate: false
+  xy: 542, 566
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tile/wooden-bridge-outline
+  rotate: false
+  xy: 923, 800
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: -1
+transitions/Mode/sakura-corner
+  rotate: false
+  xy: 192, 95
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+transitions/sand-corner
+  rotate: false
+  xy: 218, 98
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+transitions/sand-corner
+  rotate: false
+  xy: 142, 69
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+tutorial-drag-ability
+  rotate: false
+  xy: 2, 137
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 1
+tutorial-drag-ability
+  rotate: false
+  xy: 2, 93
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 2
+tutorial-drag-ability
+  rotate: false
+  xy: 2, 49
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 3
+tutorial-drag-ability
+  rotate: false
+  xy: 2, 5
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 4
+tutorial-drag-ability
+  rotate: false
+  xy: 51, 267
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 5
+tutorial-drag-ability
+  rotate: false
+  xy: 51, 223
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 6
+tutorial-drag-ability
+  rotate: false
+  xy: 47, 179
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 7
+tutorial-drag-ability
+  rotate: false
+  xy: 46, 135
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 8
+tutorial-drag-ability
+  rotate: false
+  xy: 46, 91
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 9
+tutorial-drag-ability
+  rotate: false
+  xy: 46, 47
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 10
+tutorial-drag-ability
+  rotate: false
+  xy: 46, 3
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 11
+tutorial-pic-1
+  rotate: false
+  xy: 160, 516
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+tutorial-up-arrow
+  rotate: false
+  xy: 403, 328
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+tutorial-up-arrow-dot
+  rotate: false
+  xy: 350, 71
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+ui-about-window-pic
+  rotate: false
+  xy: 860, 942
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+ui-arrow-active-left
+  rotate: false
+  xy: 168, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+ui-arrow-active-right
+  rotate: false
+  xy: 178, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+ui-arrow-inactive-left
+  rotate: false
+  xy: 188, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+ui-arrow-inactive-right
+  rotate: false
+  xy: 198, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+ui-checkbox-off
+  rotate: false
+  xy: 927, 710
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui-checkbox-on
+  rotate: false
+  xy: 903, 662
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui-craft-content
+  rotate: false
+  xy: 548, 206
+  size: 7, 7
+  split: 3, 3, 3, 3
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+ui-crafting-slot
+  rotate: false
+  xy: 283, 2
+  size: 9, 9
+  split: 4, 4, 4, 4
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ui-creature-info-ability-selection
+  rotate: false
+  xy: 813, 688
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui-creature-info-background
+  rotate: false
+  xy: 237, 407
+  size: 19, 19
+  split: 9, 9, 9, 9
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ui-creature-info-line
+  rotate: false
+  xy: 811, 881
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-creature-info-window-icon-effects
+  rotate: false
+  xy: 551, 653
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ui-creature-info-window-icon-items
+  rotate: false
+  xy: 220, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ui-creature-queue-gradient-left
+  rotate: false
+  xy: 454, 894
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+ui-creature-queue-gradient-right
+  rotate: false
+  xy: 28, 342
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+ui-discount-icon
+  rotate: false
+  xy: 401, 561
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+ui-equals
+  rotate: false
+  xy: 324, 19
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+ui-exp-progress
+  rotate: false
+  xy: 129, 408
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-exp-progress-background
+  rotate: false
+  xy: 414, 502
+  size: 11, 5
+  split: 4, 6, 0, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+ui-inventory-ability-window-background
+  rotate: false
+  xy: 217, 279
+  size: 17, 17
+  split: 8, 8, 8, 8
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui-levelup-window-background
+  rotate: false
+  xy: 2, 702
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+ui-list-selection
+  rotate: false
+  xy: 362, 507
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-message-background
+  rotate: false
+  xy: 288, 348
+  size: 3, 6
+  split: 1, 1, 1, 4
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-bear
+  rotate: false
+  xy: 245, 640
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-druid
+  rotate: false
+  xy: 480, 897
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-horseman
+  rotate: false
+  xy: 566, 962
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-monk
+  rotate: false
+  xy: 644, 962
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-necromancer
+  rotate: false
+  xy: 722, 962
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-pirate
+  rotate: false
+  xy: 878, 962
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-thief
+  rotate: false
+  xy: 323, 624
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-mode/ui-net-vampire
+  rotate: false
+  xy: 245, 578
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-archer
+  rotate: false
+  xy: 160, 555
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-boss
+  rotate: false
+  xy: 324, 748
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-dragon
+  rotate: false
+  xy: 324, 748
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-cleric
+  rotate: false
+  xy: 28, 407
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-mage
+  rotate: false
+  xy: 28, 345
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-ninja
+  rotate: false
+  xy: 800, 962
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-selection
+  rotate: false
+  xy: 340, 334
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui-net-shaman
+  rotate: false
+  xy: 324, 686
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-net-warrior
+  rotate: false
+  xy: 323, 562
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+ui-plus
+  rotate: false
+  xy: 866, 904
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+ui-potions-disabled
+  rotate: false
+  xy: 315, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ui-potions-up
+  rotate: false
+  xy: 332, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ui-purchase-item-background-down
+  rotate: false
+  xy: 558, 952
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui-purchase-item-background-up
+  rotate: false
+  xy: 366, 327
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui-purchase-item-coin-1000
+  rotate: false
+  xy: 666, 820
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ui-purchase-item-coin-2500
+  rotate: false
+  xy: 694, 820
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ui-purchase-item-coin-500
+  rotate: false
+  xy: 230, 456
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ui-purchase-window-background
+  rotate: false
+  xy: 243, 212
+  size: 17, 17
+  split: 8, 8, 8, 8
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui-slider-background
+  rotate: false
+  xy: 811, 869
+  size: 15, 10
+  split: 6, 8, 0, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui-slider-knob
+  rotate: false
+  xy: 95, 223
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui-slider-knob-before
+  rotate: false
+  xy: 461, 528
+  size: 10, 2
+  split: 4, 4, 0, 0
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+ui-spawn-background
+  rotate: false
+  xy: 901, 878
+  size: 3, 7
+  split: 1, 1, 5, 1
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+ui-spawn-placeholder
+  rotate: false
+  xy: 833, 714
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui-store-window-background
+  rotate: false
+  xy: 470, 327
+  size: 17, 17
+  split: 8, 8, 8, 8
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui-text-background
+  rotate: false
+  xy: 255, 404
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-text-cursor
+  rotate: false
+  xy: 210, 225
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-text-selection
+  rotate: false
+  xy: 236, 228
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui-thank-you-background
+  rotate: false
+  xy: 246, 80
+  size: 17, 17
+  split: 8, 8, 8, 8
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui-top-background
+  rotate: false
+  xy: 1020, 926
+  size: 1, 24
+  orig: 1, 24
+  offset: 0, 0
+  index: -1
+ui-tutorial-arrow
+  rotate: false
+  xy: 490, 608
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+ui-tutorial-message-background
+  rotate: false
+  xy: 212, 289
+  size: 3, 7
+  split: 1, 1, 5, 1
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+ui-tutorial-message-background-top
+  rotate: false
+  xy: 397, 8
+  size: 3, 7
+  split: 1, 1, 1, 5
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+ui-tutorial-window-background
+  rotate: false
+  xy: 2, 520
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+ui-tutorial-window-halfline
+  rotate: false
+  xy: 525, 673
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+ui-tutorial-window-line
+  rotate: false
+  xy: 790, 907
+  size: 42, 3
+  orig: 42, 3
+  offset: 0, 0
+  index: -1
+ui-window-background
+  rotate: false
+  xy: 633, 742
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/button/achievement-up
+  rotate: false
+  xy: 616, 800
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+ui/button/arrow-hide
+  rotate: false
+  xy: 479, 502
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ui/button/arrow-show
+  rotate: false
+  xy: 454, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ui/button/auto-place
+  rotate: false
+  xy: 497, 525
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ui/button/conflict
+  rotate: false
+  xy: 786, 849
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+ui/button/dice-down
+  rotate: false
+  xy: 336, 406
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/dice-settings
+  rotate: false
+  xy: 117, 399
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ui/button/dice-up
+  rotate: false
+  xy: 362, 403
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/fight-disabled
+  rotate: false
+  xy: 686, 925
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+ui/button/fight-down
+  rotate: false
+  xy: 686, 904
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+ui/button/fight-up
+  rotate: false
+  xy: 782, 941
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+ui/button/get-coin-down
+  rotate: false
+  xy: 440, 346
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/get-coin-up
+  rotate: false
+  xy: 466, 346
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/invite
+  rotate: false
+  xy: 790, 887
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+ui/button/leaderboards-up
+  rotate: false
+  xy: 807, 849
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+ui/button/name-change-background
+  rotate: false
+  xy: 1015, 702
+  size: 7, 8
+  split: 3, 3, 4, 3
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+ui/button/notification
+  rotate: false
+  xy: 932, 849
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+ui/button/passive-down
+  rotate: false
+  xy: 339, 19
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/button/passive-up
+  rotate: false
+  xy: 489, 336
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/button/potions-down
+  rotate: false
+  xy: 522, 57
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/potions-up
+  rotate: false
+  xy: 470, 41
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/services-base
+  rotate: false
+  xy: 894, 913
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+ui/button/services-icon
+  rotate: false
+  xy: 111, 225
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+ui/button/services-sign-out
+  rotate: false
+  xy: 874, 904
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+ui/button/services-up
+  rotate: false
+  xy: 786, 869
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+ui/button/settings-down
+  rotate: false
+  xy: 168, 43
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/settings-up
+  rotate: false
+  xy: 142, 17
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button/share
+  rotate: false
+  xy: 234, 8
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ui/button/start-disabled
+  rotate: false
+  xy: 489, 329
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/button/start-down
+  rotate: false
+  xy: 544, 343
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/button/start-up
+  rotate: false
+  xy: 265, 84
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/conflict-window/coins
+  rotate: false
+  xy: 930, 816
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/conflict-window/dice
+  rotate: false
+  xy: 269, 382
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+ui/conflict-window/ingredients
+  rotate: false
+  xy: 930, 832
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+ui/conflict-window/levels
+  rotate: false
+  xy: 106, 349
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+ui/conflict-window/potions
+  rotate: false
+  xy: 349, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+ui/dice-window/icon-equipped
+  rotate: false
+  xy: 454, 46
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ui/dice-window/icon-inventory
+  rotate: false
+  xy: 359, 5
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ui/dice-window/icon-store
+  rotate: false
+  xy: 522, 500
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ui/dice-window/info-background
+  rotate: false
+  xy: 332, 19
+  size: 5, 5
+  split: 2, 2, 2, 2
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/dice-window/inventory-background
+  rotate: false
+  xy: 2, 469
+  size: 118, 49
+  orig: 118, 49
+  offset: 0, 0
+  index: -1
+ui/dice-window/inventory-selection-selected
+  rotate: false
+  xy: 245, 125
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/dice-window/net-selection-selected
+  rotate: false
+  xy: 874, 922
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/dice-window/params-background
+  rotate: false
+  xy: 558, 897
+  size: 5, 6
+  split: 2, 2, 3, 2
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+ui/dice-window/store-background
+  rotate: false
+  xy: 157, 2
+  size: 9, 13
+  split: 4, 4, 1, 11
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+ui/dice-window/store-selection-available
+  rotate: false
+  xy: 298, 45
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/dice-window/store-selection-selected
+  rotate: false
+  xy: 298, 19
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/hint-background
+  rotate: false
+  xy: 142, 2
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ui/level-icon/default
+  rotate: false
+  xy: 409, 832
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+ui/level-icon/default-global-pvp
+  rotate: false
+  xy: 454, 897
+  size: 24, 125
+  orig: 24, 125
+  offset: 0, 0
+  index: -1
+ui/level-icon/passed-global-pvp
+  rotate: false
+  xy: 454, 897
+  size: 24, 125
+  orig: 24, 125
+  offset: 0, 0
+  index: -1
+ui/level-icon/default-pvp
+  rotate: false
+  xy: 2, 342
+  size: 24, 125
+  orig: 24, 125
+  offset: 0, 0
+  index: -1
+ui/level-icon/passed-pvp
+  rotate: false
+  xy: 2, 342
+  size: 24, 125
+  orig: 24, 125
+  offset: 0, 0
+  index: -1
+ui/level-icon/dragon
+  rotate: false
+  xy: 764, 933
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+ui/level-icon/passed
+  rotate: false
+  xy: 2, 181
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+ui/level-icon/skull
+  rotate: false
+  xy: 467, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+ui/level-icon/unknown
+  rotate: false
+  xy: 234, 386
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ui/level-icon/unknown-global-pvp
+  rotate: false
+  xy: 836, 740
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/level-icon/unknown-pvp
+  rotate: false
+  xy: 839, 688
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/pvp/timer
+  rotate: false
+  xy: 548, 215
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+ui/tab-pane/active
+  rotate: false
+  xy: 550, 716
+  size: 1, 22
+  orig: 1, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/active-left-border
+  rotate: false
+  xy: 544, 542
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/active-left-edge
+  rotate: false
+  xy: 551, 542
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/active-right-border
+  rotate: false
+  xy: 558, 542
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/active-right-edge
+  rotate: false
+  xy: 548, 518
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/content
+  rotate: false
+  xy: 852, 820
+  size: 7, 4
+  split: 3, 3, 1, 2
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+ui/tab-pane/inactive
+  rotate: false
+  xy: 1018, 738
+  size: 1, 22
+  orig: 1, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/inactive-left-edge
+  rotate: false
+  xy: 555, 518
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+ui/tab-pane/inactive-right-edge
+  rotate: false
+  xy: 1015, 712
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+world-map-title-en
+  rotate: false
+  xy: 566, 946
+  size: 106, 14
+  orig: 106, 14
+  offset: 0, 0
+  index: -1
+world-map-title-ru
+  rotate: false
+  xy: 674, 946
+  size: 106, 14
+  orig: 106, 14
+  offset: 0, 0
+  index: -1
